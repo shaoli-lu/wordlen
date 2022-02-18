@@ -1,4 +1,6 @@
 const targetWords = [
+  "panda",
+  "ebola",
   "cigar",
   "rebut",
   "sissy",
@@ -2316,6 +2318,7 @@ const targetWords = [
   "shave",
 ]
 const dictionary = [
+  "ebola",
   "aahed",
   "aalii",
   "aargh",
