@@ -4,7 +4,10 @@
 }
 
 body {
-  background-color: hsl(240, 3%, 7%);
+  /* background-color: hsl(240, 3%, 7%); */
+  /* background-color: hsl(144, 89%, 31%); */
+  background-color: hsl(144, 84%, 22%);
+
   display: flex;
   flex-direction: column;
   /* max-height: 100vh; */
